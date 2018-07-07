@@ -1,37 +1,116 @@
-## Welcome to GitHub Pages
+<div style="background-color: white; color: #222222; font-family: Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14.4px; margin-bottom: 1.5em; word-break: break-word;">
+<strong style="font-size: 14.4px;"></strong><br />
+<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
+<tr><td style="text-align: center;"><a href="https://3.bp.blogspot.com/-aFSsDqiz1QM/W0DksYrHruI/AAAAAAAAyqU/h3xidPziAasf7b3AGCwbcCuyNIDKVx70wCEwYBhgL/s1600/igor-miske-174209-unsplash.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" data-original-height="965" data-original-width="1600" height="385" src="https://3.bp.blogspot.com/-aFSsDqiz1QM/W0DksYrHruI/AAAAAAAAyqU/h3xidPziAasf7b3AGCwbcCuyNIDKVx70wCEwYBhgL/s640/igor-miske-174209-unsplash.jpg" width="640" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;">Photo Credits: Unsplash.com</td></tr>
+</tbody></table>
+<br />
+<span style="font-size: 14.4px;">Since there are many developers out there who share their experience, it’s a hard game to follow all of them. Because of this, we collected the following blogs and present you a list of our top&nbsp;</span><b style="font-size: 14.4px;">7</b><strong style="font-size: 14.4px;">&nbsp;web development blogs</strong><span style="font-size: 14.4px; text-align: center;">.</span></div>
+<div style="background-color: white; font-family: roboto, &quot;helvetica neue&quot;, helvetica, arial, sans-serif; font-size: 14.4px; margin-bottom: 1.5em;">
+<div style="color: #222222;">
+<span style="font-size: 14.4px;"><b>Be on top of the web development game!</b></span></div>
+<div style="font-family: Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14.4px; margin-bottom: 1.5em; word-break: break-word;">
+<span style="color: #222222;">In order to stay up-to-date on the&nbsp;</span><a href="http://usersnap.com/blog/web-development-trends-2016/"><span style="color: blue;">latest web development trends</span></a><span style="color: #222222;">, we put our heads together and curated this list of what we believe are the&nbsp;</span><b style="color: #222222;">7</b><strong style="color: #222222;">&nbsp;best web development blogs</strong><span style="color: #222222;">&nbsp;you should be reading right now.</span><br />
+<span style="color: #222222;"><br /></span>
+<br />
+<h2 style="color: #222222; font-family: Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; line-height: 1.3em; margin: 0.83em 0px; padding-top: 1.5em; word-break: break-word;">
+1. Six Revisions</h2>
+<div style="color: #222222; font-family: Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14.4px; margin-bottom: 1.5em; word-break: break-word;">
+Well, Six Revisions is not really a classical web development&nbsp;<em style="word-break: break-word;">blog</em>&nbsp;anymore, but rather than a&nbsp;<strong style="word-break: break-word;">major news site for developers</strong>. Six Revisions publishes practical and useful articles for web developers and designers as well. Articles are published on a regular basis every 2-5 days. Whether you are a student trying to get in the Web development game or already well accustomed to the topic, Six Revisions is definitely the place for you to spend your quality free time!&nbsp;</div>
+<div style="color: #222222; font-family: Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14.4px; margin-bottom: 1.5em; word-break: break-word;">
+<a href="https://ds6br8f5qp1u2.cloudfront.net/blog/wp-content/uploads/2015/03/1_sixrevisions-blog.png?x88475" rel="lightbox" style="color: black; word-break: break-word;"><img alt="six revisions - web development blog" class="aligncenter wp-image-2557" height="435" sizes="(max-width: 650px) 100vw, 650px" src="https://ds6br8f5qp1u2.cloudfront.net/blog/wp-content/uploads/2015/03/1_sixrevisions-blog.png?x88475" srcset="https://ds6br8f5qp1u2.cloudfront.net/blog/wp-content/uploads/2015/03/1_sixrevisions-blog.png?x88475 650w, https://ds6br8f5qp1u2.cloudfront.net/blog/wp-content/uploads/2015/03/1_sixrevisions-blog-300x200.png?x88475 300w, https://ds6br8f5qp1u2.cloudfront.net/blog/wp-content/uploads/2015/03/1_sixrevisions-blog-140x93.png?x88475 140w" style="border: 0px; display: block; height: auto; margin: 5px auto; max-width: 100%; vertical-align: middle; word-break: break-word;" width="650" /></a></div>
+<span style="color: #222222;"></span><br />
+<div style="font-family: roboto, &quot;helvetica neue&quot;, helvetica, arial, sans-serif; font-size: 14.4px; margin-bottom: 1.5em;">
+<span style="color: #222222;">Visit the page here:&nbsp;</span><span style="color: blue;"><a href="http://sixrevisions.com/" rel="nofollow noopener noreferrer" target="_blank">sixrevisions.com</a></span><br />
+<br />
+<h2 style="color: #222222; font-family: Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; line-height: 1.3em; margin: 0.83em 0px; padding-top: 1.5em; word-break: break-word;">
+2. Specky Boy</h2>
+<div>
+For starters and beginners, Specky Boy is a very good blog to spend some time going through.</div>
+<div style="color: #222222; font-family: Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14.4px; margin-bottom: 1.5em; word-break: break-word;">
+The Specky Boy blog calls itself a design magazine. Paul Andrew – the publisher of Specky Bloy – not only focuses on design resources but also provides useful insights on the latest web technologies. Especially for front-end developers, the blog is definitely a great source for staying up-to-date. Be sure to check them out!!</div>
+<div style="font-family: Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14.4px; margin-bottom: 1.5em; word-break: break-word;">
+<a href="https://ds6br8f5qp1u2.cloudfront.net/blog/wp-content/uploads/2015/03/2_speckyboy.png?x88475" rel="lightbox" style="color: black; word-break: break-word;"><img alt="speckyboy web development blog for developers" class="aligncenter wp-image-2558" height="435" sizes="(max-width: 650px) 100vw, 650px" src="https://ds6br8f5qp1u2.cloudfront.net/blog/wp-content/uploads/2015/03/2_speckyboy.png?x88475" srcset="https://ds6br8f5qp1u2.cloudfront.net/blog/wp-content/uploads/2015/03/2_speckyboy.png?x88475 650w, https://ds6br8f5qp1u2.cloudfront.net/blog/wp-content/uploads/2015/03/2_speckyboy-300x200.png?x88475 300w, https://ds6br8f5qp1u2.cloudfront.net/blog/wp-content/uploads/2015/03/2_speckyboy-140x93.png?x88475 140w" style="border: 0px; display: block; height: auto; margin: 5px auto; max-width: 100%; vertical-align: middle; word-break: break-word;" width="650" /></a><br />
+<span style="word-break: break-word;">Pay them a visit:&nbsp;<a href="http://speckyboy.com/" rel="nofollow noopener noreferrer" style="color: blue; word-break: break-word;" target="_blank">speckyboy.com</a></span></div>
+<h2 style="color: #222222; font-family: Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; line-height: 1.3em; margin: 0.83em 0px; padding-top: 1.5em; word-break: break-word;">
+3. WebResourcesDepot</h2>
+<div style="color: #222222; font-family: Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14.4px; margin-bottom: 1.5em; word-break: break-word;">
+WebResourcesDepot is a&nbsp;<strong style="word-break: break-word;">great web development blog</strong>&nbsp;offering new posts every day. Developers will definitely find some great content here. It’s definitely a blog to follow.</div>
+<div style="color: #222222; font-family: Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14.4px; margin-bottom: 1.5em; word-break: break-word;">
+<a href="https://ds6br8f5qp1u2.cloudfront.net/blog/wp-content/uploads/2015/03/3_webresources-depot.png?x88475" rel="lightbox" style="color: black; word-break: break-word;"><img alt="webresources depot web development blog for developers" class="aligncenter wp-image-2559" height="435" sizes="(max-width: 650px) 100vw, 650px" src="https://ds6br8f5qp1u2.cloudfront.net/blog/wp-content/uploads/2015/03/3_webresources-depot.png?x88475" srcset="https://ds6br8f5qp1u2.cloudfront.net/blog/wp-content/uploads/2015/03/3_webresources-depot.png?x88475 650w, https://ds6br8f5qp1u2.cloudfront.net/blog/wp-content/uploads/2015/03/3_webresources-depot-300x200.png?x88475 300w, https://ds6br8f5qp1u2.cloudfront.net/blog/wp-content/uploads/2015/03/3_webresources-depot-140x93.png?x88475 140w" style="border: 0px; display: block; height: auto; margin: 5px auto; max-width: 100%; vertical-align: middle; word-break: break-word;" width="650" /></a></div>
+<div style="font-family: Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14.4px; margin-bottom: 1.5em; word-break: break-word;">
+<span style="word-break: break-word;">Direct Link:</span><span style="color: blue; word-break: break-word;">&nbsp;<a href="http://www.webresourcesdepot.com/" rel="nofollow noopener noreferrer" style="word-break: break-word;" target="_blank">webresourcesdepot.com</a></span></div>
+<h2 style="color: #222222; font-family: Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; line-height: 1.3em; margin: 0.83em 0px; padding-top: 1.5em; word-break: break-word;">
+4.Smashing Magazine</h2>
+<div style="color: #222222; font-family: Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14.4px; margin-bottom: 1.5em; word-break: break-word;">
+Smashing Magazine is another well-known news site, which cannot be overlooked. With new articles every other day it offers you great resources about HTML, CSS, JavaScript-related topics. You will definitely find this website/blog very handy for all your future projects! Following this blog is an absolute must for every developer out there!</div>
+<div style="color: #222222; font-family: Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14.4px; margin-bottom: 1.5em; word-break: break-word;">
+<a href="https://ds6br8f5qp1u2.cloudfront.net/blog/wp-content/uploads/2015/03/5_smashing-magazine-blog-for-developers.png?x88475" rel="lightbox" style="color: black; word-break: break-word;"><img alt="smashing magazine web development blog for developers" class="aligncenter wp-image-2561" height="435" sizes="(max-width: 650px) 100vw, 650px" src="https://ds6br8f5qp1u2.cloudfront.net/blog/wp-content/uploads/2015/03/5_smashing-magazine-blog-for-developers.png?x88475" srcset="https://ds6br8f5qp1u2.cloudfront.net/blog/wp-content/uploads/2015/03/5_smashing-magazine-blog-for-developers.png?x88475 650w, https://ds6br8f5qp1u2.cloudfront.net/blog/wp-content/uploads/2015/03/5_smashing-magazine-blog-for-developers-300x200.png?x88475 300w, https://ds6br8f5qp1u2.cloudfront.net/blog/wp-content/uploads/2015/03/5_smashing-magazine-blog-for-developers-140x93.png?x88475 140w" style="border: 0px; display: block; height: auto; margin: 5px auto; max-width: 100%; vertical-align: middle; word-break: break-word;" width="650" /></a></div>
+<div style="font-family: Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14.4px; margin-bottom: 1.5em; word-break: break-word;">
+<span style="word-break: break-word;">Go Follow Them:</span><span style="color: blue; word-break: break-word;">&nbsp;<a href="http://www.smashingmagazine.com/" rel="nofollow noopener noreferrer" style="word-break: break-word;" target="_blank">smashingmagazine.com</a></span></div>
+<div class="us-newsletter-inline" style="background-color: #fcfcfc; border: 1px solid rgb(224, 224, 224); color: #222222; font-family: Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14.4px; padding: 1em; position: relative; word-break: break-word;">
+<div class="headline" style="padding: 0.5em 0.5em 0.5em 6em; position: relative; word-break: break-word;">
+<svg viewbox="0 0 164.32 93.69" xmlns="http://www.w3.org/2000/svg"><g><polygon points="52.57 93.69 34.57 56.95 164.32 0 52.57 93.69" style="fill: #005b96;"></polygon><polygon points="162.57 1.08 52.57 93.69 67.22 68.69 162.57 1.08" style="fill: #002238;"></polygon><polygon points="164.32 0 67.22 68.69 104.09 85 164.32 0" style="fill: #0082d4;"></polygon><polygon points="34.57 56.95 0 45.98 164.32 0 34.57 56.95" style="fill: #0082d4;"></polygon></g></svg><br />
+<h3 style="font-size: 1.46em; margin: 0px; word-break: break-word;">
+All about web development newsletter!</h3>
+<div style="word-break: break-word;">
+People from companies like Facebook, Google, and Microsoft are reading our articles.</div>
+</div>
+<div class="form" style="word-break: break-word;">
+<form action="https://usersnap.us4.list-manage.com/subscribe/post?u=8908eddf48c10a11f183d9099&amp;id=0d251fe92e" class="validate" id="mc-embedded-subscribe-form" method="post" name="mc-embedded-subscribe-form" novalidate="" style="display: flex; font-size: 1.11em; margin: 0.5em; word-break: break-word;" target="_blank">
+<input class="email" id="mce-EMAIL" name="EMAIL" placeholder="myemail@company.com" required="" style="color: #222222; flex: 1 1 0%; font-family: sans-serif; font-size: 15.984px; margin: 0px 0.5em 0px 5em; padding: 0px 0.5em; vertical-align: baseline; word-break: break-word;" type="email" value="" /><br />
+<div class="submit-wrap" style="word-break: break-word;">
+<input class="button" id="mc-embedded-subscribe" name="subscribe" style="-webkit-appearance: button; background-color: #3a21ce; border-color: initial; border-style: none; border-width: initial; color: white; cursor: pointer; font-family: sans-serif; font-size: 1em; letter-spacing: 1px; line-height: 2.05em; margin: 0px; outline: none; padding: 0px 1em; text-transform: uppercase; transition: background-color 0.4s ease-in-out; vertical-align: baseline; word-break: break-word;" type="submit" value="subscribe" /></div>
+</form>
+</div>
+</div>
+<h2 style="color: #222222; font-family: Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; line-height: 1.3em; margin: 0.83em 0px; padding-top: 1.5em; word-break: break-word;">
+5.David Walsh</h2>
+<div>
+Now Now, We all know those neat students who are always in a hurry to learn new things and probably already built a good knowledge for their future endeavors! If you're one of those clever brats and i<span style="color: #222222; font-family: &quot;roboto&quot; , &quot;helvetica neue&quot; , &quot;helvetica&quot; , &quot;arial&quot; , sans-serif; font-size: 14.4px;">f you get yourself comfortable in the field of software development, you’ll definitely stumble upon the blog of David Walsh. You’ll find great articles about CSS, jQuery, JavaScript, PHP, MySQL and much more. Make sure to check out his web development blog.</span></div>
+<div style="color: #222222; font-family: Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14.4px; margin-bottom: 1.5em; word-break: break-word;">
+<a href="https://ds6br8f5qp1u2.cloudfront.net/blog/wp-content/uploads/2015/03/6_david-walsh-blog-for-developers.png?x88475" rel="lightbox" style="color: black; word-break: break-word;"><img alt="david walsh blog web development blog for developers" class="aligncenter wp-image-2562" height="435" sizes="(max-width: 650px) 100vw, 650px" src="https://ds6br8f5qp1u2.cloudfront.net/blog/wp-content/uploads/2015/03/6_david-walsh-blog-for-developers.png?x88475" srcset="https://ds6br8f5qp1u2.cloudfront.net/blog/wp-content/uploads/2015/03/6_david-walsh-blog-for-developers.png?x88475 650w, https://ds6br8f5qp1u2.cloudfront.net/blog/wp-content/uploads/2015/03/6_david-walsh-blog-for-developers-300x200.png?x88475 300w, https://ds6br8f5qp1u2.cloudfront.net/blog/wp-content/uploads/2015/03/6_david-walsh-blog-for-developers-140x93.png?x88475 140w" style="border: 0px; display: block; height: auto; margin: 5px auto; max-width: 100%; vertical-align: middle; word-break: break-word;" width="650" /></a></div>
+<div style="font-family: Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14.4px; margin-bottom: 1.5em; word-break: break-word;">
+<span style="word-break: break-word;">Find them directly here</span><span style="color: blue; word-break: break-word;">:&nbsp;<a href="http://davidwalsh.name/" rel="noopener noreferrer" style="word-break: break-word;" target="_blank">davidwalsh.name</a></span></div>
+<h2 style="color: #222222; font-family: Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; line-height: 1.3em; margin: 0.83em 0px; padding-top: 1.5em; word-break: break-word;">
+6. OnextraPixel</h2>
+<div>
+Well, when we talk of Web development, we understand that it may also comprise of the very very very important part, that is Web Design!</div>
+<div style="color: #222222; font-family: Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14.4px; margin-bottom: 1.5em; word-break: break-word;">
+On our opinion, OXP is more a&nbsp;<strong style="word-break: break-word;">web design blog</strong>&nbsp;rather than a web development blog. Nevertheless, it provides some really useful articles in the field of development too. Whether it’s an article about some useful HTML5 tips or a new jQuery library. You’ll definitely get some inspiring content.</div>
+<div style="font-family: Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14.4px; margin-bottom: 1.5em; word-break: break-word;">
+<a href="https://ds6br8f5qp1u2.cloudfront.net/blog/wp-content/uploads/2015/03/7_oneextrapixel-blog-for-developers.png?x88475" rel="lightbox" style="color: black; word-break: break-word;"><img alt="one extra pixel blog web development blog for developers" class="aligncenter wp-image-2563" height="435" sizes="(max-width: 650px) 100vw, 650px" src="https://ds6br8f5qp1u2.cloudfront.net/blog/wp-content/uploads/2015/03/7_oneextrapixel-blog-for-developers.png?x88475" srcset="https://ds6br8f5qp1u2.cloudfront.net/blog/wp-content/uploads/2015/03/7_oneextrapixel-blog-for-developers.png?x88475 650w, https://ds6br8f5qp1u2.cloudfront.net/blog/wp-content/uploads/2015/03/7_oneextrapixel-blog-for-developers-300x200.png?x88475 300w, https://ds6br8f5qp1u2.cloudfront.net/blog/wp-content/uploads/2015/03/7_oneextrapixel-blog-for-developers-140x93.png?x88475 140w" style="border: 0px; display: block; height: auto; margin: 5px auto; max-width: 100%; vertical-align: middle; word-break: break-word;" width="650" /></a><br />
+<span style="color: #222222;">Visit them here:&nbsp;</span><a href="http://www.onextrapixel.com/" rel="nofollow noopener noreferrer" style="word-break: break-word;" target="_blank"><span style="color: blue;">onextrapixel.com</span></a></div>
+<h2 style="color: #222222; font-family: Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; line-height: 1.3em; margin: 0.83em 0px; padding-top: 1.5em; word-break: break-word;">
+7. Stoyan’s phpied.com</h2>
+<div style="color: #222222; font-family: Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14.4px; margin-bottom: 1.5em; word-break: break-word;">
+A great blog worth mentioning is the personal blog from Stoyan Stefanov, who’s a Facebook engineer and the author of some really great books! It’s one of the best places to discover new articles, tools &amp; frameworks. Y'all should definitely go and check them out!! Who knows, do we have the future Zuckerberg among you? Follow them, learn and maybe we might have our next prodigy!</div>
+<div style="font-family: Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14.4px; margin-bottom: 1.5em; word-break: break-word;">
+<span style="color: #222222;"><a href="https://ds6br8f5qp1u2.cloudfront.net/blog/wp-content/uploads/2015/03/8_stoyans-blog-for-developers.png?x88475" rel="lightbox" style="color: black; word-break: break-word;"><img alt="stoyans blog web development blog for developers" class="aligncenter wp-image-2564" height="435" sizes="(max-width: 650px) 100vw, 650px" src="https://ds6br8f5qp1u2.cloudfront.net/blog/wp-content/uploads/2015/03/8_stoyans-blog-for-developers.png?x88475" srcset="https://ds6br8f5qp1u2.cloudfront.net/blog/wp-content/uploads/2015/03/8_stoyans-blog-for-developers.png?x88475 650w, https://ds6br8f5qp1u2.cloudfront.net/blog/wp-content/uploads/2015/03/8_stoyans-blog-for-developers-300x200.png?x88475 300w, https://ds6br8f5qp1u2.cloudfront.net/blog/wp-content/uploads/2015/03/8_stoyans-blog-for-developers-140x93.png?x88475 140w" style="border: 0px; display: block; height: auto; margin: 5px auto; max-width: 100%; vertical-align: middle; word-break: break-word;" width="650" /></a><br style="word-break: break-word;" />Go find them:</span><span style="color: blue;">&nbsp;<a href="http://www.phpied.com/" rel="nofollow noopener noreferrer" style="word-break: break-word;" target="_blank">phpied.com</a></span></div>
+<h2 style="color: #222222; font-family: Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; line-height: 1.3em; margin: 0.83em 0px; padding-top: 1.5em; word-break: break-word;">
+8. Coding Horror</h2>
+<div style="color: #222222; font-family: Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14.4px; margin-bottom: 1.5em; word-break: break-word;">
+Coding Horror is a great blog resource from Jeff Atwood. It offers great insights on the development of software engineering. You’ll get loads of great tips and resources from Jeff sharing his experiences.</div>
+<div style="font-family: Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14.4px; margin-bottom: 1.5em; word-break: break-word;">
+<a href="https://ds6br8f5qp1u2.cloudfront.net/blog/wp-content/uploads/2015/03/9_Coding-Horror-blog-for-developers.png?x88475" rel="lightbox" style="color: black; outline: 0px; word-break: break-word;"><img alt="coding horror blog web development blog for developers" class="aligncenter wp-image-2565" height="435" sizes="(max-width: 650px) 100vw, 650px" src="https://ds6br8f5qp1u2.cloudfront.net/blog/wp-content/uploads/2015/03/9_Coding-Horror-blog-for-developers.png?x88475" srcset="https://ds6br8f5qp1u2.cloudfront.net/blog/wp-content/uploads/2015/03/9_Coding-Horror-blog-for-developers.png?x88475 650w, https://ds6br8f5qp1u2.cloudfront.net/blog/wp-content/uploads/2015/03/9_Coding-Horror-blog-for-developers-300x200.png?x88475 300w, https://ds6br8f5qp1u2.cloudfront.net/blog/wp-content/uploads/2015/03/9_Coding-Horror-blog-for-developers-140x93.png?x88475 140w" style="border: 0px; display: block; height: auto; margin: 5px auto; max-width: 100%; vertical-align: middle; word-break: break-word;" width="650" /></a><br />
+<span style="color: #222222;">Visit their blog here:&nbsp;</span><a href="http://blog.codinghorror.com/" rel="nofollow noopener noreferrer" style="word-break: break-word;" target="_blank"><span style="color: blue;">blog.codinghorror.com</span></a></div>
+</div>
+<h2 style="color: #222222; font-family: Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; line-height: 1.3em; margin: 0.83em 0px; padding-top: 1.5em; word-break: break-word;">
+Best corporate tech blogs</h2>
+<div style="color: #222222; font-family: Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14.4px; margin-bottom: 1.5em; word-break: break-word;">
+Further on, there are some great corporate web development&nbsp;blogs out there. For further readings, I’d recommend the following company blogs:</div>
+<ul style="font-family: Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14.4px; margin: 1em 0px; padding: 0px 0px 0px 40px; word-break: break-word;">
+<li style="word-break: break-word;"><span style="color: #222222;">Netflix Tech Blog:</span><span style="color: blue;">&nbsp;<a href="http://techblog.netflix.com/" rel="nofollow noopener noreferrer" style="word-break: break-word;" target="_blank">techblog.netflix.com</a></span></li>
+<li style="word-break: break-word;"><span style="color: #222222;">Code as Craft (Etsy’s tech blog):&nbsp;</span><a href="https://codeascraft.com/" rel="noopener noreferrer" style="word-break: break-word;" target="_blank"><span style="color: blue;">codeascraft.com</span></a></li>
+<li style="word-break: break-word;"><span style="color: #222222;">Dropbox Tech section:&nbsp;</span><a href="https://blogs.dropbox.com/tech/" rel="noopener noreferrer" style="word-break: break-word;" target="_blank"><span style="color: blue;">blogs.dropbox.com/tech</span></a></li>
+<li style="word-break: break-word;"><span style="color: #222222;">Facebook Engineering:&nbsp;</span><a href="https://www.facebook.com/Engineering" rel="noopener noreferrer" style="word-break: break-word;" target="_blank"><span style="color: blue;">facebook.com/Engineering</span></a></li>
+<li style="word-break: break-word;"><span style="color: #222222;">Twitter Engineering blog:&nbsp;</span><span style="color: blue; word-break: break-word;"><a href="https://blog.twitter.com/engineering" rel="noopener noreferrer" style="word-break: break-word;" target="_blank">blog.twitter.com/engineering</a></span></li>
+<li style="word-break: break-word;">Of course, how can we not mention our own blog:&nbsp;<a href="http://thewebstudent.blogspot.com/">thewebstudent.blogspot.com</a></li>
+<li style="word-break: break-word;"><span style="color: #222222;">And of course Usersnap blog:</span><span style="color: blue;">&nbsp;<a href="http://usersnap.com/blog" rel="noopener noreferrer" style="word-break: break-word;" target="_blank">usersnap.com/blog</a>&nbsp;</span>(Which We Highly Recommend)</li>
+</ul>
+<div style="color: #222222; font-family: Roboto, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14.4px; margin-bottom: 1.5em; word-break: break-word;">
+<strong style="word-break: break-word;">Which web development blogs are you reading? Share your resources in the comments!</strong></div>
+<span style="color: #222222;"></span>
+<span style="color: #222222;"><br /></span></div>
+</div>
 
-You can use the [editor on GitHub](https://github.com/TheWebStudent/TheWebStudent.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TheWebStudent/TheWebStudent.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
